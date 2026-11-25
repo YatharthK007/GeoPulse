@@ -203,14 +203,3 @@ geopulse/
 |     └── 10-Class Damage Masking + Blocked Road Detection + RFC-7946 GeoJSON Export                |
 +---------------------------------------------------------------------------------------------------+
 ```
-
----
-
-## 7. Submission Checklist & Verification Status
-
-- [x] **Zero External Dataset Downloads:** All assets deterministically generated locally.
-- [x] **Windows 11 & GTX 1650 Ti Guardrails:** Memory capped at `max_dim=768` with graceful CPU fallback.
-- [x] **100% UAI501 Syllabus Coverage:** Units 1 to 6 implemented with rigorous mathematical fidelity.
-- [x] **Polished Dark-Mode UI:** High-contrast tactical styling with `@st.cache_data` snappy responsiveness.
-- [x] **Automated Evaluation:** Generates 3 CSV tables and high-resolution ablation charts.
-- [x] **Clean Execution:** Zero syntax, compilation, or deprecation warnings.
