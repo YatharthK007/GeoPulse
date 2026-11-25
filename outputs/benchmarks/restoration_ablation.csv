@@ -1,0 +1,9 @@
+Method,PSNR_dB,SSIM,EPI,Runtime_ms
+Degraded Input,18.81,0.303,0.013,0.0
+Dehaze + adaptive_median,20.05,0.335,0.012,83.5
+Dehaze + bilateral,20.67,0.524,0.018,10.3
+Dehaze + nlm,20.81,0.739,0.031,529.9
+Dehaze + anisotropic,20.97,0.693,0.009,699.9
+Dehaze + tv,21.09,0.748,0.055,595.1
+Dehaze + wavelet,21.06,0.702,0.019,88.1
+Full GeoPulse,20.03,0.53,0.008,1237.5

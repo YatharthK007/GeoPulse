@@ -1,0 +1,22 @@
+{
+ "telemetry": {
+  "GPSLatitude": 29.287,
+  "GPSLongitude": -94.812,
+  "RelativeAltitude": 95.0,
+  "GimbalPitchDegree": -88.0,
+  "FocalLength": 8.8
+ },
+ "classes": [
+  "Building-No-Damage",
+  "Building-Minor",
+  "Building-Major",
+  "Building-Destroyed",
+  "Road-Clear",
+  "Road-Blocked",
+  "Water",
+  "Tree",
+  "Vehicle",
+  "Pool"
+ ],
+ "background_value": 255
+}

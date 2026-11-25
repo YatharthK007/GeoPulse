@@ -1,0 +1,4 @@
+Pipeline,Inliers,Total_Matches,Inlier_Ratio,Reproj_Error_px,Video_Jitter_Reduction_Pct
+ORB + RANSAC,22,34,0.647,0.902,80.0
+SIFT + RANSAC,45,91,0.495,0.518,80.0
+AKAZE + RANSAC + CNN Hybrid,163,188,0.867,0.367,80.0

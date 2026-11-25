@@ -1,0 +1,14 @@
+numpy
+scipy
+opencv-contrib-python
+scikit-image
+PyWavelets
+Pillow
+exifread
+pandas
+plotly
+streamlit
+torchvision
+torch
+
+piexif
